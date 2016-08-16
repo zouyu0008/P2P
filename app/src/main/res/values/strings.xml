@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">大家来抢钱</string>
+    <!-- 字符串构成的数组结构，在投资对应的Fragment中使用 -->
+    <string-array name="invest_array">
+        <item>全部理财</item>
+        <item>推荐理财</item>
+        <item>热门理财</item>
+    </string-array>
+</resources>
